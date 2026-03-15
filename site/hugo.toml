@@ -1,7 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "الأمن السيبراني للمغرب"
+languageCode = "ar-ma"
+languageLang = "ar"
+title = "محصن الأمن السيبراني"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
